@@ -1,0 +1,4 @@
+split,images,matches_expected,duplicate_category_images,match_rate
+test,240,239,0,0.9958333333333333
+train,1386,1371,5,0.9891774891774892
+valid,446,442,1,0.9910313901345291

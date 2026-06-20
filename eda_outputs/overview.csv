@@ -1,0 +1,4 @@
+split,images,blood_groups,min_width,max_width,min_height,max_height,annotations
+test,240,3,1096,3159,460,1388,383
+train,1386,8,265,3790,82,2082,2157
+valid,446,4,347,3773,107,1325,998
