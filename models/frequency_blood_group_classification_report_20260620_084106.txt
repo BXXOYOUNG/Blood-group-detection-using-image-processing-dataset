@@ -1,0 +1,19 @@
+Best model: gradient_boosting
+Feature mode: frequency
+Target: blood_group
+Saved at: 20260620_084106
+
+              precision    recall  f1-score   support
+
+          A+     0.8906    0.9500    0.9194        60
+          A-     0.9286    0.8814    0.9043        59
+         AB+     0.9661    0.9828    0.9744        58
+         AB-     0.9815    0.9298    0.9550        57
+          B+     0.9016    0.9167    0.9091        60
+          B-     0.9286    0.8667    0.8966        60
+          O+     0.9062    0.9667    0.9355        60
+          O-     1.0000    1.0000    1.0000         1
+
+    accuracy                         0.9277       415
+   macro avg     0.9379    0.9367    0.9368       415
+weighted avg     0.9286    0.9277    0.9275       415
