@@ -1,0 +1,19 @@
+# Blood Group Detection Using Image Processing Dataset
+# Tested with Python 3.11.9
+# Notebook workflow is compatible with Google Colab.
+# The notebooks try importing `google.colab` and fall back to local execution if it is not available.
+#
+# Run the Streamlit app:
+#   streamlit run app.py
+
+# Core runtime for app.py and notebook inference utilities
+streamlit==1.58.0
+opencv-python==4.13.0.92
+numpy==2.3.5
+pandas==2.3.3
+joblib==1.5.3
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8
+pillow==12.1.1
+
